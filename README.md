@@ -1,5 +1,5 @@
 # Text line filling animation on scroll
-![text-line-animation.gif](https://github.com/teotimepacreau/Text-line-filling-animation-on-scroll-Day6-Of-100DaysOfCode/blob/main/text-line-animation.gif.gif)
+![text-line.gif](https://github.com/teotimepacreau/Text-line-filling-animation-on-scroll-Day6-Of-100DaysOfCode/blob/main/text-line.gif)
 
 # Project goal
 - SplitType lib in order to break into lines the paragraphs
